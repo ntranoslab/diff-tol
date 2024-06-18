@@ -1,1 +1,1 @@
-DEL_SUB = ""
+DEL_SUB = "/"
