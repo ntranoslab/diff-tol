@@ -3,3 +3,5 @@ data/esm_ins_sub_pllr.csv.gz filter=lfs diff=lfs merge=lfs -text
 data/gnomad_del_sub_merge_AF.csv.gz filter=lfs diff=lfs merge=lfs -text
 data/uniprot_domains.tsv.gz filter=lfs diff=lfs merge=lfs -text
 data/uniprot_sequences_all.tsv.gz filter=lfs diff=lfs merge=lfs -text
+data/all_w2g_llr.csv.gz filter=lfs diff=lfs merge=lfs -text
+data/all_helix_llr.csv.gz filter=lfs diff=lfs merge=lfs -text
