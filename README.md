@@ -8,6 +8,8 @@ The repo is generally self-contained, although a few additional datasets must be
 - ESM1b substitution (LLR) effects, via https://huggingface.co/spaces/ntranoslab/esm_variants/blob/main/ALL_hum_isoforms_ESM1b_LLR.zip.
   
 ### Supplementary data files
+- `data/all_helix_llr.csv.gz` All substitution effects (LLR) within helices.
+- `data/all_w2g_llr.csv.gz` All W -> G substitution effects (LLR).
 - `data/esm_ins_sub_pllr.csv.gz` Insertion and substitution effects, measured via PLLR, for 1,632 structurall diverse proteins.
 - `data/gnomad_del_sub_merge_AF.csv.gz` Allele frequencies for all sites in gnomAD containing both a single in-frame amino acid deletion and a substitution.
 - `data/tsuboyama_ddg.csv` Processed ddG measurements from Tsuboyama et al. https://doi.org/10.1038/s41586-023-06328-6
